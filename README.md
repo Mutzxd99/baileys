@@ -1,7 +1,7 @@
-# WhatsApp Baileys Badzz
+# Modified Baileys Mutzxd99
 
 <p align="center">
-  <img src="https://d.top4top.io/p_3749w5rv01.jpg" alt="Thumbnail" />
+  <img src="https://b.top4top.io/p_3749yla9g1.jpg" alt="Thumbnail" />
 </p>
 
 WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
@@ -88,7 +88,7 @@ await sock.sendMessage(target, {
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/badzzne2", 
+        joinLink: "https://call.whatsapp.com/video/Mutzxd", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
@@ -125,7 +125,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2 ",
+        footer: "telegram: @Mutzxd",
         buttons: [
             {
                 name: "cta_copy",
@@ -148,13 +148,13 @@ await sock.sendMessage(target, {
     interactiveMessage: {      
         header: "Hello World",
         title: "Hello World",      
-        footer: "telegram: @badzzne2",      
+        footer: "telegram: @Mutzxd",      
         image: { url: "https://example.com/image.jpg" },      
         nativeFlowMessage: {        
             messageParamsJson: JSON.stringify({          
                 limited_time_offer: {            
                     text: "idk hummmm?",            
-                    url: "https://t.me/badzzne2",            
+                    url: "https://t.me/Mutzxd",            
                     copy_code: "yume",            
                     expiration_time: Date.now() * 999          
                 },          
@@ -167,7 +167,7 @@ await sock.sendMessage(target, {
                 tap_target_configuration: {            
                     title: " X ",            
                     description: "bomboclard",            
-                    canonical_url: "https://t.me/badzzne2",            
+                    canonical_url: "https://t.me/Mutzxd",            
                     domain: "shop.example.com",            
                     button_index: 0          
                 }        
@@ -195,7 +195,7 @@ await sock.sendMessage(target, {
                                 highlight_label: "label",                  
                                 rows: [                    
                                     {                      
-                                        title: "@badzzne2",                      
+                                        title: "@Mutzxd",                      
                                         description: "love you",                      
                                         id: "row_2"                    
                                     }                  
@@ -227,7 +227,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @Mutzxd",
         image: { url: "https://example.com/image.jpg" },
         buttons: [
             {
@@ -280,10 +280,10 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @Mutzxd",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "badzzne2.pdf",
+        fileName: "Mutzxd.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         contextInfo: {
             mentionedJid: [target],
@@ -296,7 +296,7 @@ await sock.sendMessage(target, {
             mediaType: 3,
             thumbnailUrl: "https://example.com/image.jpg",
             mediaUrl: " X ",
-            sourceUrl: "https://t.me/badzzne2",
+            sourceUrl: "https://t.me/Mutzxd",
             showAdAttribution: true,
             renderLargerThumbnail: false         
         },
@@ -305,8 +305,8 @@ await sock.sendMessage(target, {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/Mutzxd",
+                    merchant_url: "https://t.me/Mutzxd"
                 })
             }
         ]
@@ -322,18 +322,18 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @badzzne2",
+        footer: "telegram: @Mutzxd",
         document: fs.readFileSync("./package.json"),
         mimetype: "application/pdf",
-        fileName: "badzzne2.pdf",
+        fileName: "Mutzxd.pdf",
         jpegThumbnail: fs.readFileSync("./document.jpeg"),
         buttons: [
             {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                     display_text: "Telegram",
-                    url: "https://t.me/badzzne2",
-                    merchant_url: "https://t.me/badzzne2"
+                    url: "https://t.me/Mutzxd",
+                    merchant_url: "https://t.me/Mutzxd"
                 })
             }
         ]
