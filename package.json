@@ -1,7 +1,7 @@
 {
-  "name": "@badzz88/baileys",
-  "version": "8.5.3",
-  "description": "Baileys Whatsapp Api Modification By Badzz88",
+  "name": "@Mutzxd99/baileys",
+  "version": "9.4.0",
+  "description": "Baileys Whatsapp Api Modification By Mutzxd99",
   "keywords": [
     "whatsapp",
     "whatsapp-web",
@@ -13,12 +13,12 @@
     "automation",
     "md"
   ],
-  "homepage": "https://www.npmjs.com/package/@badzz88/baileys",
+  "homepage": "https://www.npmjs.com/package/@Mutzxd99/baileys",
   "repository": {
-    "url": "https://github.com/package/Badzz88/baileys.giy"
+    "url": "https://github.com/package/Mutzxd99/baileys.giy"
   },
   "license": "MIT",
-  "author": "Badzz88",
+  "author": "Mutzxd99",
   "main": "src/index.js",
   "files": [
     "src/**/*",
