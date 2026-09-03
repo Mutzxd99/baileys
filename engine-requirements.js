@@ -10,7 +10,7 @@ if (major < 20) {
 This package uses features available only in
 Node.js 20 or newer.
 
-Please update Node.js and try again.
+Please update your Node.js and try again.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 `);
     process.exit(1);
